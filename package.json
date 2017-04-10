@@ -1,6 +1,6 @@
 {
   "name": "smart-require",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A better require() for large projects",
   "main": "index.js",
   "repository": "git@github.com:motet-a/smart-require.git",
