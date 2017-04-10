@@ -1,4 +1,4 @@
-
+﻿
 # smart-require
 
 Avoid ugly `require('../../../some-file')` using absolute paths, from
