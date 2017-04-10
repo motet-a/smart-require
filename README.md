@@ -74,3 +74,5 @@ require('smart-require')(root)
 ## See also
 
 [require-root](https://github.com/ccheever/require-root), nice but different.
+
+[babel-plugin-root-require](https://github.com/m59peacemaker/babel-plugin-root-require), needs Babel.
